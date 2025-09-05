@@ -1,0 +1,8 @@
+<activity android:name=".OverlayQuestionActivity"
+    android:theme="@android:style/Theme.DeviceDefault.NoActionBar.Fullscreen"
+    android:excludeFromRecents="true"
+    android:taskAffinity=""
+    android:launchMode="singleTask"
+    android:screenOrientation="portrait"
+    android:showWhenLocked="true"
+    android:turnScreenOn="true" />
